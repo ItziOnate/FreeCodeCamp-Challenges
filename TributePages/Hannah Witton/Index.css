@@ -1,0 +1,48 @@
+<style>
+
+    #main {
+      text-align: center;
+    }
+    #title {
+      text-align: center;
+    }
+    #img-div {
+      margin-left: auto;
+      margin-right: auto;
+     }
+    #image {
+      border-radius: 25px;
+      border: 0px solid;
+      max-width: 23%;
+      height: auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    #img-caption {
+      background-color: #D68913;
+      border: 1px solid;
+      text-align: center;
+    }
+    #tribute-info {
+       width: 50%;
+       margin: 0 auto;
+       text-align: center;
+    }
+    #tribute-text {
+       text-align: center;
+       width: 80%;
+       margin: 0 auto;
+    }
+    #tribute-link {
+       text-decoration: none;
+    }
+
+    body {
+       background-color: #F4CC8E;
+           }
+
+    li {
+       display: inline-block;
+     }
+</style>
